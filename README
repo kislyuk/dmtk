@@ -1,0 +1,10 @@
+Installing:
+
+wget -O dmtk.tar.gz https://github.com/kislyuk/dmtk/tarball/master
+sudo pip dmtk.tar.gz
+
+(Or unpack the tarball and use "setup.py install").
+
+Attribution notice:
+
+Portions of this package are derived from the Pacific Biosciences SMRTAnalysis software package.
