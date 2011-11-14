@@ -1,3 +1,5 @@
+The DNA Modification Toolkit is a suite of algorithms, libraries and scripts for detecting DNA methylation and other modifications using the latest methylation sequencing technologies. Currently the toolkit only supports modification detection with Pacific Biosciences SMRT (Single-molecule, real-time) sequencing.
+
 Installing:
 
 wget -O dmtk.tar.gz https://github.com/kislyuk/dmtk/tarball/master
